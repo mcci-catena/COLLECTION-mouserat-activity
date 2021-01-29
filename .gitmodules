@@ -1,0 +1,9 @@
+[submodule "libraries/arduino-lmic"]
+	path = libraries/arduino-lmic
+	url = https://github.com/mcci-catena/arduino-lmic
+[submodule "libraries/Catena-Arduino-Platform"]
+	path = libraries/Catena-Arduino-Platform
+	url = https://github.com/mcci-catena/Catena-Arduino-Platform.git
+[submodule "libraries/mcci-catena-4430"]
+	path = libraries/mcci-catena-4430
+	url = https://github.com/mcci-catena/mcci-catena-4430.git
