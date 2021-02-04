@@ -7,3 +7,21 @@
 [submodule "libraries/mcci-catena-4430"]
 	path = libraries/mcci-catena-4430
 	url = https://github.com/mcci-catena/mcci-catena-4430.git
+[submodule "libraries/Catena-mcciadk"]
+	path = libraries/Catena-mcciadk
+	url = https://github.com/mcci-catena/Catena-mcciadk.git
+[submodule "libraries/arduino-lorawan"]
+	path = libraries/arduino-lorawan
+	url = https://github.com/mcci-catena/arduino-lorawan.git
+[submodule "libraries/Adafruit_BME280_Library"]
+	path = libraries/Adafruit_BME280_Library
+	url = https://github.com/mcci-catena/Adafruit_BME280_Library.git
+[submodule "libraries/Adafruit_Sensor"]
+	path = libraries/Adafruit_Sensor
+	url = https://github.com/mcci-catena/Adafruit_Sensor.git
+[submodule "libraries/MCCI_FRAM_I2C"]
+	path = libraries/MCCI_FRAM_I2C
+	url = https://github.com/mcci-catena/MCCI_FRAM_I2C.git
+[submodule "libraries/SD"]
+	path = libraries/SD
+	url = https://github.com/mcci-catena/SD.git
