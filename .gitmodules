@@ -31,3 +31,6 @@
 [submodule "extra/bootloader"]
 	path = extra/bootloader
 	url = git@gitlab-x.mcci.com:tmm/bootloader.git
+[submodule "extra/dfu-util"]
+	path = extra/dfu-util
+	url = git://git.code.sf.net/p/dfu-util/dfu-util
