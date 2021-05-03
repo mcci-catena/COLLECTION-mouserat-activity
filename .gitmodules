@@ -25,3 +25,6 @@
 [submodule "libraries/SD"]
 	path = libraries/SD
 	url = https://github.com/mcci-catena/SD.git
+[submodule "extra/Arduino_Core_STM32"]
+	path = extra/Arduino_Core_STM32
+	url = git@github.com:mcci-catena/Arduino_Core_STM32.git
