@@ -2,6 +2,8 @@
 
 Collection of repos as build environment for Catena 4430 for WUSTL / Lex Kravitz' RAD2 (Rodent Activity Detector, V2).
 
+This corresponds to MCCI document 234001363.
+
 This repo is intended to be built on Linux (Ubuntu 18 or later). The build script might work with Ubuntu for Windows, but has not been tested.
 
 To build:
