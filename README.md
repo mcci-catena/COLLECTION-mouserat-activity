@@ -30,4 +30,10 @@ To build:
       ./build-with-cli --key={path-to-file}.pem
       ```
 
+    - to build for multiple regions and multiple networks:
+
+      ```bash
+      ./build-with-cli.sh --test --verbose && ./build-with-cli.sh --test --verbose --region=au915 --network=ttn && ./build-with-cli.sh --test --verbose --region=eu868 --network=ttn
+      ```
+
    The output shows up in `build/ide`.
