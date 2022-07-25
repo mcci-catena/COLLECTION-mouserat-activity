@@ -37,3 +37,9 @@
 [submodule "extra/tools-build-with-cli"]
 	path = extra/tools-build-with-cli
 	url = git@github.com:mcci-catena/tools-build-with-cli.git
+[submodule "sketches/Catena4430_Sensor"]
+	path = sketches/Catena4430_Sensor
+	url = git@github.com:mcci-catena/Catena4430_Sensor.git
+[submodule "libraries/Time"]
+	path = libraries/Time
+	url = git@github.com:mcci-catena/Time.git
