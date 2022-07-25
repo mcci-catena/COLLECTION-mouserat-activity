@@ -45,7 +45,7 @@ cd "$PDIR"
 function _setProject {
     #---- project settings -----
     readonly OPTOUTPUTNAME_DEFAULT=Catena4430_Sensor
-    readonly OPTARDUINO_SOURCE_DEFAULT=libraries/mcci-catena-4430/examples/Catena4430_Sensor/Catena4430_Sensor.ino
+    readonly OPTARDUINO_SOURCE_DEFAULT=sketches/Catena4430_Sensor/Catena4430_Sensor.ino
     readonly OPTARDUINO_BOARD_DEFAULT=4610
     readonly OPTKEYFILE_DEFAULT="$INVOKEDIR/keys/project.pem"
     readonly OPTREGION_DEFAULT=us915
